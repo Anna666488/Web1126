@@ -12,10 +12,6 @@
  
 <div class="headLog">
 <div class="headLogBox">
-<div class="l"><img src="images/logo.gif"></div>
-<div class="r"><img src="images/tel.gif"></div>
-<div class="r"><img src="images/add.gif"></div>
-<div class="clearFloat"></div>
 <div class="nav">
 <ul>
 <li class="on"><a href="index.htm">首 页</a> </li>
